@@ -9,6 +9,7 @@ public class Test {
         // init git
         // this is content temp_branch1
         // this is master and delete temp_branch1
+        // master add content
     }
 
 }
