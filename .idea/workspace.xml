@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c959f53-0a3c-4995-a99b-76535d0d712b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/FileUtil.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Singleton.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/SortAlgorithm.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Test.java" afterPath="$PROJECT_DIR$/src/com/company/Test.java" />
-      <change beforePath="$PROJECT_DIR$/src/selectAlgorithm.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -328,12 +320,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528685260276</updated>
-      <workItem from="1528685270610" duration="7800000" />
+      <workItem from="1528685270610" duration="7859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7800000" />
+    <option name="totallyTimeSpent" value="7859000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
