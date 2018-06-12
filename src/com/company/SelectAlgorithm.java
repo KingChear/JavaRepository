@@ -1,14 +1,14 @@
 package com.company;
 
-public class selectAlgorithm {
+public class SelectAlgorithm {
 
-    private static selectAlgorithm instance = new selectAlgorithm();
+    private static SelectAlgorithm instance = new SelectAlgorithm();
 
-    private selectAlgorithm() {
+    private SelectAlgorithm() {
 
     }
 
-    public static selectAlgorithm getInstance() {
+    public static SelectAlgorithm getInstance() {
         return instance;
     }
 
